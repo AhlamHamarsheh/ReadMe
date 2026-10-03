@@ -1,0 +1,14 @@
+# Evidence & browser snapshots may contain PII (store contacts, customer data) — never commit
+qa/evidence/
+.playwright-mcp/
+# Dependencies
+node_modules/
+tools/node_modules/
+# Secrets / local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_*
+.DS_Store

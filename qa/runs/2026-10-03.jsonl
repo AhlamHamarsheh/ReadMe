@@ -1,0 +1,1 @@
+{"date":"2026-10-03","project":"Karaz","env":"169.58.165.26","type":"Manual / Exploratory","flow":"Customer portal","scenario":"Full exploratory session incl. signup, cart, checkout, cross-portal order cancel","status":"FAIL","notes":"25 findings, 10 bug drafts; order #8 placed and cancelled; QA customer #4 created"}
